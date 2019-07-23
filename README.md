@@ -1,3 +1,12 @@
+**Course**: Data Science   <br/>
+**Mod**:    1                 <br/>
+**Topic**:   What is Data science                <br/>
+**Amount of time**: 1 hour 15 min <br/>
+**Author**: Alison Peebles Madigan alison.peeblesmadigan@flatironschool.com
+
+Adapted from the lesson-starters repository original version [here](https://github.com/learn-co-curriculum/ds-lessons-starter/blob/master/lesson-plans-by-mod/Module-1/data-science-brick-1/mod-1-what-is-data-science.md).
+
+***
 
 # Teacher Notes
 
